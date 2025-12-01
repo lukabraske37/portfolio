@@ -804,6 +804,22 @@ a {
     .projects-grid {
         grid-template-columns: 1fr;
     }
+
+    /* Fix mobile text wrapping for contact info */
+    .hero-subline {
+        font-size: 0.8125rem;
+        line-height: 1.6;
+        word-break: break-word;
+        overflow-wrap: break-word;
+        position: relative;
+        z-index: 10;
+        margin-top: var(--spacing-sm);
+    }
+
+    .hero-content {
+        position: relative;
+        z-index: 10;
+    }
 }
 
 /* ===========================
