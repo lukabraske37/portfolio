@@ -4,3 +4,15 @@ Thumbs.db
 node_modules/
 .vscode/
 .idea/
+
+# Projekti imaju svoje repozitorijume
+ai-note-summarizer/
+ai-task-manager/
+mini-booking-system/
+smart-notes-api/
+
+# Nepotrebno za portfolio
+test igrica/
+_backup_20241201/
+UPUTSTVO_ZA_UPLOAD.md
+*.backup
