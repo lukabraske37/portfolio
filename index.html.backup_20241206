@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Luka Brašanac - YouTube content creator, AI enthusiast, and web developer specializing in history documentaries and modern web applications.">
-    <title>Luka Brašanac - Content Creator & Web Developer</title>
+        content="Luka Brašanac - YouTube content creator, AI enthusiast, and automation expert specializing in history documentaries and video production.">
+    <title>Luka Brašanac - Content Creator & AI Specialist</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -46,29 +46,27 @@
                 <div class="hero-grid">
                     <div class="hero-content">
                         <p class="hero-tag">HI, I'M LUKA</p>
-                        <h1 class="hero-title">I create history documentaries & build web apps</h1>
-                        <p class="hero-description">17-year-old content creator and developer from Serbia. Running two
-                            history
-                            YouTube channels: <strong>Steps Through Time</strong> (English) and <strong>Steps through
-                                time
-                                Serbia</strong> (Serbian). I also build AI-powered web applications and tools.
+                        <h1 class="hero-title">I create history documentaries & build AI tools</h1>
+                        <p class="hero-description">17-year-old YouTube content creator from Serbia running two history
+                            channels: <strong>Steps Through Time</strong> (English) and <strong>Steps through time
+                                Serbia</strong> (Serbian). I also build AI tools, automations, and design with Affinity.
                         </p>
                         <div class="hero-buttons">
-                            <a href="#projects" class="btn btn-primary">View Projects</a>
+                            <a href="#projects" class="btn btn-primary">View Channels</a>
                             <a href="#contact" class="btn btn-secondary">Contact</a>
                         </div>
                         <p class="hero-subline">Available for freelance & internships • Email: <a
                                 href="mailto:lukabrasanac2008@gmail.com"
-                                class="inline-link">lukabrasanac2008@gmail.com</a></p>
+                                class="inline-link">lukabrasanac2008@gmail.com</a> • Discord: lukabraske372</p>
                     </div>
                     <div class="hero-visual">
                         <div class="avatar-container">
                             <img src="profile.jpg" alt="Luka Brašanac - Content Creator" class="avatar-image">
                         </div>
                         <div class="skill-badges">
-                            <span class="badge badge-blue">React</span>
+                            <span class="badge badge-blue">Affinity</span>
                             <span class="badge badge-purple">YouTube</span>
-                            <span class="badge badge-green">Node.js</span>
+                            <span class="badge badge-green">Editing</span>
                         </div>
                     </div>
                 </div>
@@ -99,15 +97,13 @@
                         <div class="skill-icon">
                             <svg width="32" height="32" viewBox="0 0 24 24" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
-                                <polyline points="16 18 22 12 16 6" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round" />
-                                <polyline points="8 6 2 12 8 18" stroke="currentColor" stroke-width="2"
+                                <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" stroke="currentColor" stroke-width="2"
                                     stroke-linecap="round" stroke-linejoin="round" />
                             </svg>
                         </div>
-                        <h3 class="skill-title">Web Development</h3>
-                        <p class="skill-description">React, Node.js, Express, MongoDB - building full-stack web
-                            applications with modern technologies.</p>
+                        <h3 class="skill-title">Affinity (Designer / Photo)</h3>
+                        <p class="skill-description">Advanced editing, thumbnails, mockups, and UI assets for web and
+                            social media.</p>
                     </div>
 
                     <div class="skill-card">
@@ -120,22 +116,24 @@
                                     stroke-linecap="round" stroke-linejoin="round" />
                             </svg>
                         </div>
-                        <h3 class="skill-title">AI & Automation</h3>
-                        <p class="skill-description">OpenAI integration, GPT prompting, and building AI-powered features
-                            for web applications.</p>
+                        <h3 class="skill-title">GPT / Prompt Engineering</h3>
+                        <p class="skill-description">Building prompts & automations to streamline content creation and
+                            workflow optimization.</p>
                     </div>
 
                     <div class="skill-card">
                         <div class="skill-icon">
                             <svg width="32" height="32" viewBox="0 0 24 24" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
-                                <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" stroke="currentColor" stroke-width="2"
+                                <polyline points="16 18 22 12 16 6" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round" />
+                                <polyline points="8 6 2 12 8 18" stroke="currentColor" stroke-width="2"
                                     stroke-linecap="round" stroke-linejoin="round" />
                             </svg>
                         </div>
-                        <h3 class="skill-title">Design Tools</h3>
-                        <p class="skill-description">Affinity Designer & Photo for thumbnails, mockups, and UI design
-                            assets.</p>
+                        <h3 class="skill-title">Web Development</h3>
+                        <p class="skill-description">HTML, CSS, JavaScript, C#, and modern web technologies for building
+                            applications.</p>
                     </div>
                 </div>
             </div>
@@ -145,60 +143,72 @@
         <section class="tech-stack-section">
             <div class="container">
                 <h2 class="section-title">Tech Stack</h2>
-                <p class="section-subtitle">Technologies and tools I work with</p>
+                <p class="section-subtitle">Technologies and tools I work with daily</p>
                 <div class="tech-grid">
                     <div class="tech-category">
-                        <h3 class="tech-category-title">Frontend</h3>
+                        <h3 class="tech-category-title">Design & Video</h3>
                         <div class="tech-badges">
                             <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-                                    alt="React"></span>
+                                    src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"
+                                    alt="CapCut"></span>
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"
+                                    alt="DaVinci Resolve"></span>
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white"
+                                    alt="Affinity Designer"></span>
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white"
+                                    alt="Affinity Photo"></span>
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"
+                                    alt="After Effects"></span>
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"
+                                    alt="Premiere Pro"></span>
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"
+                                    alt="Photoshop"></span>
+                        </div>
+                    </div>
+                    <div class="tech-category">
+                        <h3 class="tech-category-title">Languages</h3>
+                        <div class="tech-badges">
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+                                    alt="C#"></span>
                             <span class="tech-badge"><img
                                     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
                                     alt="JavaScript"></span>
-                            <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-                                    alt="Tailwind CSS"></span>
                             <span class="tech-badge"><img
                                     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
                                     alt="HTML5"></span>
                             <span class="tech-badge"><img
                                     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
                                     alt="CSS3"></span>
+                            <span class="tech-badge"><img
+                                    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+                                    alt="C++"></span>
                         </div>
                     </div>
                     <div class="tech-category">
-                        <h3 class="tech-category-title">Backend & Database</h3>
+                        <h3 class="tech-category-title">Tools & Platforms</h3>
                         <div class="tech-badges">
                             <span class="tech-badge"><img
                                     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
                                     alt="Node.js"></span>
                             <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"
-                                    alt="Express"></span>
+                                    src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+                                    alt="Google Cloud"></span>
                             <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-                                    alt="MongoDB"></span>
-                            <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
-                                    alt="OpenAI"></span>
-                        </div>
-                    </div>
-                    <div class="tech-category">
-                        <h3 class="tech-category-title">Tools & Design</h3>
-                        <div class="tech-badges">
+                                    src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"
+                                    alt="Supabase"></span>
                             <span class="tech-badge"><img
                                     src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"
                                     alt="Cloudflare"></span>
                             <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-                                    alt="GitHub"></span>
-                            <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white"
-                                    alt="Affinity Designer"></span>
-                            <span class="tech-badge"><img
-                                    src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"
-                                    alt="DaVinci Resolve"></span>
+                                    src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+                                    alt="Vercel"></span>
                         </div>
                     </div>
                 </div>
@@ -208,9 +218,8 @@
         <!-- Projects Section -->
         <section id="projects" class="projects-section">
             <div class="container">
-                <h2 class="section-title">Featured Projects</h2>
+                <h2 class="section-title">Featured Work</h2>
                 <div class="projects-grid">
-
                     <!-- Featured YouTube Project -->
                     <div class="project-card project-featured">
                         <div class="project-image project-image-youtube">
@@ -226,182 +235,87 @@
                         <div class="project-content">
                             <h3 class="project-title">🎥 YouTube Channels — History Content</h3>
                             <p class="project-description">Creating engaging historical documentary content across two
-                                channels. Full production: research, scriptwriting, voiceover, video editing, and
-                                thumbnail design.</p>
+                                channels. I handle the entire production process: research, scriptwriting, voiceover,
+                                video editing (CapCut/DaVinci), and thumbnail design.</p>
                             <div class="project-tags">
                                 <span class="tag">YouTube</span>
                                 <span class="tag">History</span>
                                 <span class="tag">Video Editing</span>
+                                <span class="tag">Storytelling</span>
                             </div>
                             <div class="youtube-links">
                                 <a href="https://www.youtube.com/@STTStepsThroughime" target="_blank"
                                     rel="noopener noreferrer" class="project-link youtube-link">📺 Steps Through Time
                                     (English) →</a>
-                                <a href="https://www.youtube.com/@StepsthroughtimeSerbia" target="_blank"
-                                    rel="noopener noreferrer" class="project-link youtube-link">📺 Steps through time
-                                    Serbia →</a>
+                                <div class="project-overlay">
+                                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="2" y="2" width="20" height="20" rx="2.18" stroke="currentColor"
+                                            stroke-width="2" />
+                                        <path d="M7 2v20M17 2v20M2 12h20M2 7h5M2 17h5M17 17h5M17 7h5"
+                                            stroke="currentColor" stroke-width="2" />
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="project-title">Keramika Espana — Digital Presence</h3>
+                                <p class="project-description">Built website and created social media content for
+                                    ceramic
+                                    tile business.</p>
+                                <div class="project-tags">
+                                    <span class="tag">Web Design</span>
+                                    <span class="tag">TikTok</span>
+                                    <circle cx="12" cy="12" r="3" stroke="currentColor" stroke-width="2" />
+                                    <path
+                                        d="M12 1v6m0 6v6m-5-7H1m6 0h6m6 0h6M6.3 6.3l4.2 4.2m4.2 0l4.2 4.2m0-8.4l-4.2 4.2m-4.2 0L6.3 17.7"
+                                        stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="project-title">n8n Content Automation</h3>
+                                <p class="project-description">Automates fetching analytics and scheduling simple posts.
+                                </p>
+                                <div class="project-tags">
+                                    <span class="tag">n8n</span>
+                                    <span class="tag">Google Sheets</span>
+                                    <span class="tag">YouTube API</span>
+                                </div>
                             </div>
                         </div>
                     </div>
-
-                    <!-- AI Task Manager -->
-                    <div class="project-card">
-                        <div class="project-image project-image-gradient-blue">
-                            <div class="project-overlay">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M9 11l3 3L22 4" stroke="currentColor" stroke-width="2"
-                                        stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"
-                                        stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                        stroke-linejoin="round" />
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="project-content">
-                            <h3 class="project-title">🎮 AI Task Manager</h3>
-                            <p class="project-description">Gamified task manager inspired by Habitica. AI expands notes
-                                into structured tasks with subtasks. Includes XP, levels, and streaks.</p>
-                            <div class="project-tags">
-                                <span class="tag">React</span>
-                                <span class="tag">OpenAI</span>
-                                <span class="tag">Gamification</span>
-                            </div>
-                            <div class="project-links">
-                                <a href="https://ai-task-manager-6ew.pages.dev" target="_blank"
-                                    class="project-link">Live Demo →</a>
-                                <a href="https://github.com/lukabraske37/ai-task-manager" target="_blank"
-                                    class="project-link">GitHub →</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- AI Note Summarizer -->
-                    <div class="project-card">
-                        <div class="project-image project-image-gradient-purple">
-                            <div class="project-overlay">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"
-                                        stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                        stroke-linejoin="round" />
-                                    <path d="M14 2v6h6M16 13H8M16 17H8M10 9H8" stroke="currentColor" stroke-width="2"
-                                        stroke-linecap="round" stroke-linejoin="round" />
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="project-content">
-                            <h3 class="project-title">📝 AI Note Summarizer</h3>
-                            <p class="project-description">Paste any text and get AI-powered summaries, key points
-                                extraction, and study notes. Clean, modern UI.</p>
-                            <div class="project-tags">
-                                <span class="tag">React</span>
-                                <span class="tag">OpenAI</span>
-                                <span class="tag">Tailwind</span>
-                            </div>
-                            <div class="project-links">
-                                <a href="https://ai-note-summarizer.pages.dev" target="_blank" class="project-link">Live
-                                    Demo →</a>
-                                <a href="https://github.com/lukabraske37/ai-note-summarizer" target="_blank"
-                                    class="project-link">GitHub →</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Mini Booking System -->
-                    <div class="project-card">
-                        <div class="project-image project-image-gradient-green">
-                            <div class="project-overlay">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <rect x="3" y="4" width="18" height="18" rx="2" stroke="currentColor"
-                                        stroke-width="2" />
-                                    <path d="M16 2v4M8 2v4M3 10h18" stroke="currentColor" stroke-width="2"
-                                        stroke-linecap="round" />
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="project-content">
-                            <h3 class="project-title">📅 Mini Booking System</h3>
-                            <p class="project-description">Appointment booking webapp with AI assistant. Calendar view,
-                                time slots, admin dashboard for managing bookings.</p>
-                            <div class="project-tags">
-                                <span class="tag">React</span>
-                                <span class="tag">Calendar</span>
-                                <span class="tag">AI Assistant</span>
-                            </div>
-                            <div class="project-links">
-                                <a href="https://mini-booking-system.pages.dev" target="_blank"
-                                    class="project-link">Live Demo →</a>
-                                <a href="https://github.com/lukabraske37/mini-booking-system" target="_blank"
-                                    class="project-link">GitHub →</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Smart Notes API -->
-                    <div class="project-card">
-                        <div class="project-image project-image-gradient-orange">
-                            <div class="project-overlay">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M22 12h-4l-3 9L9 3l-3 9H2" stroke="currentColor" stroke-width="2"
-                                        stroke-linecap="round" stroke-linejoin="round" />
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="project-content">
-                            <h3 class="project-title">⚡ Smart Notes REST API</h3>
-                            <p class="project-description">Backend API with AI endpoints for note summarization and
-                                improvement. Built with Express, MongoDB, OpenAI. Swagger docs included.</p>
-                            <div class="project-tags">
-                                <span class="tag">Node.js</span>
-                                <span class="tag">Express</span>
-                                <span class="tag">MongoDB</span>
-                                <span class="tag">OpenAI</span>
-                            </div>
-                            <div class="project-links">
-                                <a href="https://smart-notes-api-tuns.onrender.com/api-docs" target="_blank"
-                                    class="project-link">API Docs →</a>
-                                <a href="https://github.com/lukabraske37/smart-notes-api" target="_blank"
-                                    class="project-link">GitHub →</a>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
-            </div>
         </section>
 
         <!-- Experience Section -->
         <section id="experience" class="experience-section">
             <div class="container">
-                <h2 class="section-title">Experience</h2>
+                <h2 class="section-title">Work Experience</h2>
                 <div class="timeline">
                     <div class="timeline-item">
                         <div class="timeline-date">2024 - Present</div>
                         <div class="timeline-content">
-                            <h3 class="timeline-title">Web Developer & AI Projects</h3>
-                            <p class="timeline-description">Building full-stack web applications with React, Node.js,
-                                and AI integration. Deployed multiple projects to Cloudflare and Render.</p>
-                        </div>
-                    </div>
-
-                    <div class="timeline-item">
-                        <div class="timeline-date">2023 - Present</div>
-                        <div class="timeline-content">
-                            <h3 class="timeline-title">YouTube Content Creator</h3>
-                            <p class="timeline-description">Running two history documentary channels. Complete
-                                production pipeline: research, scripting, editing, and design.</p>
+                            <h3 class="timeline-title">Freelance Video Editor & Mockups</h3>
+                            <p class="timeline-description">Small gigs for friends and local clients, creating engaging
+                                content and professional mockups using Affinity Designer.</p>
                         </div>
                     </div>
 
                     <div class="timeline-item">
                         <div class="timeline-date">2023 - 2024</div>
                         <div class="timeline-content">
-                            <h3 class="timeline-title">Freelance Video Editor</h3>
-                            <p class="timeline-description">Creating videos and mockups for local clients using CapCut,
-                                DaVinci Resolve, and Affinity Designer.</p>
+                            <h3 class="timeline-title">Social Media Helper — Company B</h3>
+                            <p class="timeline-description">Content creation under limited resources and one
+                                participant. Managed end-to-end video production.</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-date">2023</div>
+                        <div class="timeline-content">
+                            <h3 class="timeline-title">Social Media Helper — Company A</h3>
+                            <p class="timeline-description">Recorded & edited short videos; managed posting schedule for
+                                social media channels.</p>
                         </div>
                     </div>
                 </div>
@@ -414,12 +328,14 @@
                 <div class="about-content">
                     <h2 class="section-title">About Me</h2>
                     <p class="about-text">
-                        Hi — I'm <strong>Luka</strong>, a 17-year-old developer and content creator from Serbia. I run
-                        two history YouTube channels and build AI-powered web applications.
+                        Hi — I'm <strong>Luka</strong>, a 17-year-old content creator and AI enthusiast from Serbia. I
+                        run two history YouTube channels where I combine my passion for storytelling with technical
+                        skills in video editing (CapCut, DaVinci Resolve).
                     </p>
                     <p class="about-text">
-                        I love combining creativity with technology — whether it's editing documentaries, designing
-                        thumbnails, or coding full-stack apps with React and Node.js. Always learning, always building.
+                        Beyond video, I build practical GPT-based tools and automations with n8n to streamline
+                        workflows. I also design visuals in Affinity and code web tools. I'm always learning and looking
+                        for new challenges in digital media and tech.
                     </p>
                 </div>
             </div>
@@ -433,8 +349,8 @@
                     <p class="contact-text">Interested in working together? Let's create something amazing.</p>
                     <a href="mailto:lukabrasanac2008@gmail.com" class="btn btn-primary btn-large">Email Me</a>
                     <div class="social-links">
-                        <a href="https://github.com/lukabraske37" target="_blank" rel="noopener noreferrer"
-                            class="social-link" aria-label="GitHub">
+                        <a href="https://github.com/lukabraske37?tab=repositories" target="_blank"
+                            rel="noopener noreferrer" class="social-link" aria-label="GitHub">
                             <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -442,7 +358,7 @@
                             </svg>
                         </a>
                         <a href="https://www.youtube.com/@STTStepsThroughime" target="_blank" rel="noopener noreferrer"
-                            class="social-link" aria-label="YouTube">
+                            class="social-link" aria-label="YouTube - Steps Through Time">
                             <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -455,6 +371,14 @@
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+                            </svg>
+                        </a>
+                        <a href="https://discord.com/users/lukabraske372" target="_blank" rel="noopener noreferrer"
+                            class="social-link" aria-label="Discord">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z" />
                             </svg>
                         </a>
                         <a href="https://www.instagram.com/luka___8/" target="_blank" rel="noopener noreferrer"
@@ -474,7 +398,7 @@
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p class="footer-text">© Luka Brašanac • 2025</p>
+            <p class="footer-text">© Luka Brašanac • 2025 — Built with HTML & Affinity design</p>
         </div>
     </footer>
 
