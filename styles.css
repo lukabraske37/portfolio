@@ -215,18 +215,20 @@ a {
     position: relative;
     padding: var(--spacing-2xl) 0;
     overflow: hidden;
+    z-index: 1;
 }
 
 .hero::before {
     content: '';
     position: absolute;
-    top: -100px;
+    top: calc(-100px + var(--parallax-offset, 0px));
     left: 0;
     right: 0;
     height: 600px;
     background: radial-gradient(ellipse at top, rgba(59, 130, 246, 0.15), transparent 60%);
     pointer-events: none;
     z-index: -1;
+    transition: top 0.1s ease-out;
 }
 
 .hero-grid {

@@ -37,12 +37,16 @@ const highlightNav = () => {
 
 window.addEventListener('scroll', highlightNav);
 
-// Add parallax effect to hero background
+// Add parallax effect to hero background elements only (not the entire hero)
+// This prevents text overlap when scrolling
 window.addEventListener('scroll', () => {
     const scrolled = window.pageYOffset;
-    const hero = document.querySelector('.hero');
-    if (hero) {
-        hero.style.transform = `translateY(${scrolled * 0.3}px)`;
+    const heroBefore = document.querySelector('.hero');
+    if (heroBefore && scrolled < 400) {
+        // Only apply subtle parallax to the background gradient effect
+        // Limit the effect to prevent overlap with content below
+        const parallaxAmount = Math.min(scrolled * 0.15, 60);
+        heroBefore.style.setProperty('--parallax-offset', `${parallaxAmount}px`);
     }
 });
 
